@@ -15,6 +15,7 @@ function Footer() {
       flexDirection="column"
       color="black"
       fontSize="10px">
+        
       
       <Box
        display="flex"

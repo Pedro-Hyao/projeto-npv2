@@ -106,12 +106,16 @@ bgcolor="#cccccc">
 
 const Cantores = () => (
   <Box bgcolor="" width="87%" height="100%"
-    display="flex" justifyContent="center" alignItems="start"
+    display="flex" justifyContent="center" alignItems="center"
     flexDirection="column" fontSize="32px">
-    <h2></h2>
-    <p>Bem-vindo à página inicial!</p>
+    <h2>Principais cantores</h2>
+    
   </Box>
 );
+<Box display="flex" justifyContent="center" alignItems="start">
+    <p>Liniker!</p>
+  </Box>
+  
 const Bandas = () => (
   <Box bgcolor="" width="87%" height="100%"
     display="flex" justifyContent="center" alignItems="start"
@@ -125,7 +129,13 @@ const Estilos = () => (
     display="flex" justifyContent="center" alignItems="start"
     flexDirection="column" fontSize="32px">
     <h2>Estilos importantes na música cultural Paulista.</h2>
-    <p></p>
+    <p>O Brasil é um país de grande diversidade cultural, e essa riqueza se reflete diretamente nos estilos musicais brasileiros. 
+      Cada região desenvolveu estilos únicos, que hoje fazem parte da identidade musical nacional.
+    </p>
+    <p>Talvez um fator importante tenha sido a mescla de culturas que formaram o nosso país: com os ritmos e cantos africanos, 
+      as músicas eruditas europeias e até os ritos tradicionais indígenas, a história da nossa música já começou cheia de influências.
+    </p>
+
 
   </Box>
 );
