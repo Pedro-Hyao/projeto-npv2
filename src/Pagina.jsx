@@ -21,7 +21,7 @@ const Pagina = () => {
         
         {/* Artista Liniker */}
         <Box sx={{ backgroundColor: 'white', padding: 3, borderRadius: 2, boxShadow: 2, flex: 1, minWidth: '280px' }}>
-          <Button variant="contained" color="primary" fullWidth>
+          <Button variant="success" color="primary" fullWidth>
             Liniker
           </Button>
           <Typography variant="body2" sx={{ marginTop: 2 }}>
@@ -35,7 +35,7 @@ const Pagina = () => {
 
         {/* Artista Morgana Kurmann */}
         <Box sx={{ backgroundColor: 'white', padding: 3, borderRadius: 2, boxShadow: 2, flex: 1, minWidth: '280px' }}>
-          <Button variant="contained" color="primary" fullWidth>
+          <Button variant="success" color="primary" fullWidth>
             Morgana Kurmann
           </Button>
           <Typography variant="body2" sx={{ marginTop: 2 }}>
@@ -48,7 +48,7 @@ const Pagina = () => {
 
         {/* Artista Adriana Gennari */}
         <Box sx={{ backgroundColor: 'white', padding: 3, borderRadius: 2, boxShadow: 2, flex: 1, minWidth: '280px' }}>
-          <Button variant="contained" color="primary" fullWidth>
+          <Button variant="success" color="primary" fullWidth>
             Adriana Gennari
           </Button>
           <Typography variant="body2" sx={{ marginTop: 2 }}>
@@ -60,7 +60,7 @@ const Pagina = () => {
 
         {/* Artista Ekena */}
         <Box sx={{ backgroundColor: 'white', padding: 3, borderRadius: 2, boxShadow: 2, flex: 1, minWidth: '280px' }}>
-          <Button variant="contained" color="green" fullWidth>
+          <Button variant="success" color="green" fullWidth>
             Ekena
           </Button>
           <Typography variant="body2" sx={{ marginTop: 2 }}>
