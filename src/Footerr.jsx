@@ -15,14 +15,14 @@ function Footer() {
       flexDirection="column"
       color="black"
       fontSize="10px">
+        
       
       <Box
        display="flex"
        flexDirection="row">
-      <Button variant='text' color='' >Todos</Button>
-      <Button variant='text' color='' href="./doom.html" >os</Button>
-      <Button variant='text' color='' >Direitos </Button>
-      <Button variant='text' color='' > Reservados</Button>
+      <Button variant='text' color='' href="./doom.html" > Todos os Direitos Reservados</Button>
+
+
       
         </Box> 
         <img width="100%" height="100%"
