@@ -11,7 +11,7 @@ function Cantoress() {
     bgcolor="" width="87%" height="100%"
       display="flex" justifyContent="space-around" alignItems="start"
       flexDirection="column" fontSize="12px"
-      color="black">
+      color="black" bgcolor="white">
 
 <Pagina />
       
