@@ -48,11 +48,9 @@ const Gabrielribeiro = () => (<Ygabrielribeiro />
 const Jao = () => (<Yjao />
 );
 
-
 const Rooterapp = () => {
   return (
     <Router>
-
 
       <Rooternav />
       <Routes>
