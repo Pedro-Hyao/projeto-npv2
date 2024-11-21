@@ -8,6 +8,10 @@ color:black;
 }
 a:link {
     color: rgb(0, 0, 0);
+<<<<<<< HEAD
+=======
+    
+>>>>>>> origin/main
   }
   
   /* visited link */
@@ -24,3 +28,7 @@ a:link {
   a:active {
     color: rgb(128, 128, 128);
   }
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main

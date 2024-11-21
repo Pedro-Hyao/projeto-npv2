@@ -3,6 +3,10 @@ import StandardImageList from './liststs'
 import Rooterapp from './Rooterapp'
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 function Content() {
 
 
