@@ -6,7 +6,7 @@ function Sobres() {
 
   return (
     
-  <Box bgcolor="" width="87%" height="100%"
+  <Box bgcolor="white" width="87%" height="100%"
   display="flex" justifyContent="center" alignItems="start"
   flexDirection="column" fontSize="32px">
   <h2>Sobre o Site</h2>
