@@ -146,12 +146,9 @@ const Bandas = () => ( <Bandass />
 const Estilos = () => (<Estiloss />
 );
 
-
-
 const Liniker = () => (<Yliniker />
 );
 
- codespace-sinister-skull-r4rg696jjr7wcxvqj
 const Sabotage = () => (<Ysabotage />
 );
 
@@ -159,15 +156,8 @@ const Manobrown = () => (<Ymanobrown />
 );
 
 const Gabrielribeiro = () => (<Ygabrielribeiro />
-
-const Cantores = () => (
-  <Box bgcolor="" width="87%" height="100%"
-    display="flex" justifyContent="center" alignItems="center"
-    flexDirection="column" fontSize="32px">
-    <h2>Principais cantores</h2>
-    
-  </Box>
 );
+<<<<<<< HEAD
 <Box display="flex" justifyContent="center" alignItems="start">
     <p>Liniker!</p>
   </Box>
@@ -206,6 +196,8 @@ const Estilos = () => (
 const Jao = () => (<Yjao />
 );
 
+=======
+>>>>>>> origin/main
 
 >>>>>>> origin/main
 const Rooterapp = () => {
